@@ -3,7 +3,7 @@
 
 I like positive, fast moving teams. 
 
-I like phones with good battery life and refresh rate screens.
+I like phones with good battery life and high refresh rate screens.
 
 I like these GIFs
 
