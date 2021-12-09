@@ -1,16 +1,13 @@
-### Hi there 👋
+![welcometocat](https://user-images.githubusercontent.com/3252375/145449278-97c54a96-dc78-406c-9e5b-66166b440026.png)
+### Hi there 👋 🦄
 
-<!--
-**stevepopovich/stevepopovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like positive, fast moving teams. 
 
-Here are some ideas to get you started:
+I like phones with good battery life and refresh rate screens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like these GIFs
+
+![5524291deab8ea7620fc827e](https://user-images.githubusercontent.com/3252375/145449460-77594a4e-a141-4f8c-b347-acbcba4b15a0.gif)
+![Steve Kerr's reaction to Steph Curry's crazy shot  - Imgur](https://user-images.githubusercontent.com/3252375/145449080-e22a7c19-9778-46b6-9b72-6f93f2379d10.gif)
+
+I’m currently working at GitHub, working on the GitHub Android Mobile app 🐙 📱
