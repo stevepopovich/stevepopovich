@@ -2,6 +2,6 @@
 
 ### Hi there 👋 🦄
 
-I’m currently working at GitHub, working on the GitHub Android Mobile app 🐙 📱
+I’m currently working at GitHub, working on API stuff 🐙 📱
 
 My main goal to is to prevent default!
