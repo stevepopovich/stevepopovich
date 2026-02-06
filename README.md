@@ -1,5 +1,5 @@
 ### Hi there 👋 🦄
 
-I’m currently working at GitHub, previosuly Android, working on Mobile APIs and Ruby on Rails 🐙 📱
+I’m currently working at GitHub, working on Android apps and Mobile APIs 🐙 📱
 
 Trying my best.
