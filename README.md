@@ -1,5 +1,5 @@
 ### Hi there 👋 🦄
 
-I’m currently working at GitHub, working on Android apps and Mobile APIs 🐙 📱
+I’m currently working at Radar, working on mobile SDK's and location services 🐙 📱
 
 Trying my best.
